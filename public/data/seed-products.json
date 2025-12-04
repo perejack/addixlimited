@@ -1,0 +1,86 @@
+[
+  {
+    "name": "CHICK FEEDER",
+    "category": "FOOD & BEVERAGE PRODUCTS",
+    "price": 66,
+    "description": "Quality food & beverage product: CHICK FEEDER. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/chick-feeder.webp"
+  },
+  {
+    "name": "CHICK FEEDING TRAY",
+    "category": "FOOD & BEVERAGE PRODUCTS",
+    "price": 239,
+    "description": "Quality food & beverage product: CHICK FEEDING TRAY. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/chick-feeding-tray.webp"
+  },
+  {
+    "name": "CHICKEN DRINKER NO.2",
+    "category": "FOOD & BEVERAGE PRODUCTS",
+    "price": 244,
+    "description": "Quality food & beverage product: CHICKEN DRINKER NO.2. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/chicken-drinker-no-2.webp"
+  },
+  {
+    "name": "BOTTLE CRATE 500 ML X 24 BOTTLES",
+    "category": "INDUSTRIAL",
+    "price": 1,
+    "description": "Quality industrial product: BOTTLE CRATE 500 ML X 24 BOTTLES. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/bottle-crate-500-ml-x-24-bottles.webp"
+  },
+  {
+    "name": "INDUSTRIAL BUCKET 20 LTRS",
+    "category": "INDUSTRIAL",
+    "price": 653,
+    "description": "Quality industrial product: INDUSTRIAL BUCKET 20 LTRS. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/industrial-bucket-20-ltrs.webp"
+  },
+  {
+    "name": "INDUSTRIAL BUCKET 5 LTRS",
+    "category": "INDUSTRIAL",
+    "price": 174,
+    "description": "Quality industrial product: INDUSTRIAL BUCKET 5 LTRS. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/industrial-bucket-5-ltrs.webp"
+  },
+  {
+    "name": "BAMBOO TRAY",
+    "category": "HOUSEHOLD",
+    "price": 182,
+    "description": "Quality household product: BAMBOO TRAY. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/bamboo-tray.webp"
+  },
+  {
+    "name": "BAMBOO WASTE PAPER BASKET",
+    "category": "HOUSEHOLD",
+    "price": 266,
+    "description": "Quality household product: BAMBOO WASTE PAPER BASKET. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/bamboo-waste-paper-basket.webp"
+  },
+  {
+    "name": "BASIN NO.45 NDEGE",
+    "category": "HOUSEHOLD",
+    "price": 247,
+    "description": "Quality household product: BASIN NO.45 NDEGE. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/basin-no-45-ndege.webp"
+  },
+  {
+    "name": "PLANTER NO.1 WITH DISH",
+    "category": "GARDENING",
+    "price": 416,
+    "description": "Quality gardening product: PLANTER NO.1 WITH DISH. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/planter-no-1-with-dish.webp"
+  },
+  {
+    "name": "PLANTER NO.2 WITH DISH",
+    "category": "GARDENING",
+    "price": 756,
+    "description": "Quality gardening product: PLANTER NO.2 WITH DISH. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/planter-no-2-with-dish.webp"
+  },
+  {
+    "name": "PLANTER NO.4",
+    "category": "GARDENING",
+    "price": 170,
+    "description": "Quality gardening product: PLANTER NO.4. Durable, affordable, and made for everyday use.",
+    "image_url": "/images/products/planter-no-4.webp"
+  }
+]
